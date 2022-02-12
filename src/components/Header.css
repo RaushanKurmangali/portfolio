@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #34a0a4;
+}
+
+.link {
+  color: #db9487;
+}
+
+.link:hover {
+  border-bottom: 2px solid teal;
+}
